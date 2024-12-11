@@ -8,9 +8,16 @@
   ],
   "attributes": {
     "lastModification": {
+<<<<<<< HEAD
       "actor": "external",
       "timestamp": "2024-11-20T12:49:00Z"
     },
     "lastModificationSignature": "b4467c8053aeb1bcf45a60295e1803c6a7be6d49e5280a5efeda13086ac6baba"
+=======
+      "actor": "Administrator",
+      "timestamp": "2024-11-24T20:59:42Z"
+    },
+    "lastModificationSignature": "1ae2ead0d2a514f36085df21a6aac5d382c5a726389d301e7d9b31f44aef1a60"
+>>>>>>> b10ec9af7dd064a088eb3bd21f1a71d762e4d881
   }
 }

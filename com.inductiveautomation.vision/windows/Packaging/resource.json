@@ -10,9 +10,10 @@
   "attributes": {
     "lastModification": {
       "actor": "Administrator",
-      "timestamp": "2024-11-19T17:33:28Z"
+      "timestamp": "2024-11-25T23:45:50Z"
     },
     "xml-format-version": 1,
-    "lastModificationSignature": "d75e4f9f99a7c8af86dc334732faf6760e96826e87e32d48c98554d44c9462f9"
+    "parameter-names": "b_sensorConveyorEnd,b_sensorConveyorMid,b_sensorConveyorStart,i_conveyerStatus",
+    "lastModificationSignature": "a9f3b47d4013cac2011b65b87f036e2634f1d52219209972469c4d5d148be890"
   }
 }
