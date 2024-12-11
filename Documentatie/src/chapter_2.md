@@ -6,12 +6,16 @@ start
 :Sensor begin band hoog;
 :Band lopen (elektrisch);
 if (Moet product worden verpakt?) then (Nee)
-
+    :Stopper in (p);
+    :Band door laten lopen (e);
+    :Stopper uit (p);
+    :Wacht tot eind-sensor actief;
+    :Band stopt (e);
 else (Ja)
     :Stopper uit (p);
     :Gripper open (p);
     :Z as omlaag (p);
-    :Gripper dicht (p);
+    :Gripper dicht (p);d
     :Z as omhoog (p);
     :X as verplaatsen (s);
 
